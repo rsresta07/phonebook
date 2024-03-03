@@ -10,5 +10,4 @@ Easy To Use Phonebook is a C-based project.
 * Keywords in C
 
 ## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/)
